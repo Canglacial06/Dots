@@ -1,0 +1,24 @@
+wallpaper: "/home/enrique/Imágenes/Wallpaper/ma.jpg"
+
+special:
+    background: "#0b0404"
+    foreground: "#c2c0c0"
+    cursor: "#c2c0c0"
+
+colors:
+    color0: "#0b0404"
+    color1: "#94778D"
+    color2: "#7185B9"
+    color3: "#5785D1"
+    color4: "#6E8EC9"
+    color5: "#A4A3A2"
+    color6: "#EDD8B8"
+    color7: "#c2c0c0"
+    color8: "#665454"
+    color9: "#94778D"
+    color10: "#7185B9"
+    color11: "#5785D1"
+    color12: "#6E8EC9"
+    color13: "#A4A3A2"
+    color14: "#EDD8B8"
+    color15: "#c2c0c0"
